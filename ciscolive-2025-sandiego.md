@@ -10,6 +10,7 @@
 |5 new things you need to know about Catalyst Center licensing - BRKOPS-2835 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2835.pdf|
 |5 Tools You Should Learn to Level Up Your Network Automation Game - BRKDEV-2149 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDEV-2149.pdf|
 |7 Steps: Master the art of unifying Multicloud secure Connectivity and Design - Cisco SD-WAN + Multicloud Defense - BRKENT-2283 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2283.pdf|
+|Accelerating AI with Cisco Infrastructure and NVIDIA Blueprints - CISCOU-2062 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2062.pdf|
 |Achieving Industry Standards, Frameworks and Architectures Using Duo - BRKSEC-1017 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-1017.pdf|
 |ACI Layer 4-7 Policy-Based Redirect (PBR) Deep Dive and Tips - BRKDCN-3982 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-3982.pdf|
 |ACI Multi-Site Architecture and Deployment - BRKDCN-2980 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2980.pdf|
@@ -29,9 +30,12 @@
 |Advanced Storage Area Network Design - BRKDCN-2941 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2941.pdf|
 |Advanced Wi-Fi Tuning: Become an Expert While Getting a Little Help from AI - BRKEWN-3413 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-3413.pdf|
 |Advancements and Applications of Coherent Pluggable Technology in High Bandwidth Transport Networks - BRKOPT-2556 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPT-2556.pdf|
+|A Fireside Chat with Network Engineers about AI - CISCOU-1055 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1055.pdf|
 |Agentic AI and NetDevOps: Enabling a New Era of Network Change Validation - BRKNWT-2502 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKNWT-2502.pdf|
 |AgenticOps in Motion: AI Agents Powering a Unified Cisco Experience - BRKXAR-2028 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2028.pdf|
 |AI Agents 101: An Introduction to Agents and Examples of How to Build Them - BRKETI-1008 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-1008.pdf|
+|AI Agents and Agentic Frameworks: An Overview - AIHUB-2170 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2170.pdf|
+|AI Agents with Cisco and Splunk - AIHUB-2494 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2494.pdf|
 |AI-Directed Troubleshooting for 3-Tier Applications - BRKOBS-1023 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1023.pdf|
 |AI Driven Operations and Self-Healing Cisco Secure Access - BRKSEC-2772 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2772.pdf|
 |AI in Cisco Certifications: Elevate Your Expertise - BRKCRT-1012 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-1012.pdf|
@@ -47,6 +51,7 @@
 |A Network Engineer's Blueprint for ACI Forwarding - BRKDCN-3900 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-3900.pdf|
 |A New Era of Cross-domain Diagnostics with AI and Agentic Systems - BRKETI-2172 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-2172.pdf|
 |An Introduction to Quantum Mechanics, Computing, and Networking - BRKETI-1401 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-1401.pdf|
+|Applying AI/ML Methods to Diagnose Network Issues Using Telemetry Data - AIHUB-2006 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2006.pdf|
 |Applying UCS X-Series Advanced Power and Cooling Management to Your Sustainability Goals and Reporting - BRKCOM-2933 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2933.pdf|
 |Architecting AI-Assisted Automation Frameworks for Large-Scale Deployments - BRKATO-2001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKATO-2001.pdf|
 |Architecting a Private Cloud for AI Workloads - BRKCOM-2519 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2519.pdf|
@@ -61,6 +66,7 @@
 |Atomic Config Replace with Cisco Catalyst 9000 - BRKENS-2604 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2604.pdf|
 |Authentication, Authorization and Provision for Cisco Collaboration, what is new? - BRKCOL-2007 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2007.pdf|
 |Automate Catalyst Center with Cisco Workflows - BRKOPS-2379 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2379.pdf|
+|Automated Meraki switchport configuration copies for switch lifecycle replacement - CISCOU-1051 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1051.pdf|
 |Automate, Manage, and Migrate Traditional 3-Tier vPC-Based Deployment using Nexus Dashboard - BRKDCN-2618 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2618.pdf|
 |Automatic Discovery, Unmatched Visibility, Speed, and Context to Failure-Proof Your Kubernetes and Containerized Environments - BRKOBS-2012 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2012.pdf|
 |Automating Diverse Multi-Domain Networks End-to-End - BRKOPS-2544 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2544.pdf|
@@ -74,6 +80,7 @@
 |Best Practices for Troubleshooting Cisco Catalyst 8000 Edge Platforms - BRKTRS-2572 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKTRS-2572.pdf|
 |Best Practices for Webex Meetings and Webinars - BRKCOL-2083 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2083.pdf|
 |Best Practices of Virtual Port Channel in VXLAN EVPN Fabrics - BRKDCN-2912 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2912.pdf|
+|Beyond GPUs: Essentials of Gen AI, Networking Backbone & Best Practices for AI Success! - AIHUB-1015 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1015.pdf|
 |Beyond Limits: The Innovative Journey of Industry 4.0 - BRKIOT-2019 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-2019.pdf|
 |Beyond Wi-Fi: Enable your IoT Solutions with Cisco Wireless - BRKEWN-1266 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-1266.pdf|
 |BGP EVPN in Enterprise Campuses with Catalyst 9000 Series Switches - BRKENS-2092 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2092.pdf|
@@ -82,6 +89,7 @@
 |Breaking the Identity Provider Mold with Duo - BRKSEC-2082 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2082.pdf|
 |Bridge to the Skies – How to securely connect to your workloads in the cloud with Meraki SD-WAN - BRKENT-2087 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2087.pdf|
 |Bridging the Gap: Integrating Identity Security Across Platforms - BRKSEC-2910 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2910.pdf|
+|Bridging the Gap: Unlocking the Power of OT Skills in the Digital Age - CISCOU-1050 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1050.pdf|
 |Bringing Network Detections and Visibilty to Splunk - BRKSEC-2928 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2928.pdf|
 |Build a More Sustainable Network: The Journey from 'As-is' to 'To-be' - BRKGRN-1021 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKGRN-1021.pdf|
 |Building an Enterprise-Class AI/ML Infrastructure using Cisco UCS, NVIDIA GPUs, and Red Hat OpenShift AI for MLOps - BRKCOM-2018 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2018.pdf|
@@ -108,12 +116,15 @@
 |Cisco 8000 Technical Update: Powered by Silicon One and IOS XR - BRKSPG-2944 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPG-2944.pdf|
 |Cisco 8500 and 8400 Series Secure Routers for Scalable WAN Aggregation - BRKARC-2885 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-2885.pdf|
 |Cisco ACI Contract Deep Dive for CCNP Data Center Candidates - BRKCRT-2023 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-2023.pdf|
+|Cisco ACI EPGs vs. ESGs: Comparison and Use Cases for Each - CISCOU-2066 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2066.pdf|
 |Cisco ACI Multi-Pod Design and Deployment - BRKDCN-2949 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2949.pdf|
 |Cisco AI Assistant to Troubleshoot Application and Network Connectivity - BRKOBS-1019 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1019.pdf|
 |Cisco Catalyst 9000 Series, Cisco Silicon One, and IOS XE Architecture and Innovation - BRKARC-2092 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-2092.pdf|
 |Cisco Catalyst 9000 Switching QoS with Silicon One ASICs Deep Dive - BRKARC-2039 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-2039.pdf|
 |Cisco Catalyst Center: Built-In Integrations for Streamlined Network Operations - BRKOPS-2609 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2609.pdf|
+|Cisco Catalyst SD-WAN Fundamentals - CISCOU-1052 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1052.pdf|
 |Cisco Catalyst SD-WAN: Start Here - BRKENT-2108 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2108.pdf|
+|Cisco Certifications Portfolio Updates - CISCOU-1048 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1048.pdf|
 |Cisco collaboration devices with Microsoft Teams Rooms - Deployment and Best Practices - BRKCOL-2185 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2185.pdf|
 |Cisco Compute Automation with Natural Language - BRKATO-1010 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKATO-1010.pdf|
 |Cisco Connected Justice Virtual Visitation Solution (VVS) and Offender Reservation Platform - BRKXAR-2132 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2132.pdf|
@@ -145,6 +156,7 @@
 |Common policy for zero-trust network security: The unified Meraki approach - BRKARC-2750 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-2750.pdf|
 |Common Policy to rule them all: Seamlessly Integrate SDA, SD-WAN, ACI and Cloud - BRKXAR-2001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2001.pdf|
 |Compliance Reporting from the Source of Truth - BRKXAR-2026 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2026.pdf|
+|Configuring and Troubleshooting Catalyst Center Templates - CISCOU-3004 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-3004.pdf|
 |Connecting Beyond Fabric: Catalyst 9000 BGP EVPN Handoff Scenarios - BRKENS-2652 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2652.pdf|
 |Connecting the unconnected with Starlink & Cisco validated solution - BRKMSI-1000 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-1000.pdf|
 |Connecting Your Data to LLMs: Identity, Functions and Agents are all you Need - BRKETI-2411 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-2411.pdf|
@@ -154,6 +166,7 @@
 |Creating an Application-Optimized SASE-Enabled Architecture - BRKXAR-1000 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-1000.pdf|
 |Creating Digitally Resilient Meraki Networks with Splunk and ThousandEyes - BRKOBS-2100 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2100.pdf|
 |Creating Efficient and Scalable Intersight Architectures for large Enterprise and MSPs - BRKCOM-2019 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2019.pdf|
+|Cross Architecture Approach to AI - AIHUB-1009 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1009.pdf|
 |Crosswork Planning using Predictive Analytics to power AI OPS - BRKOPS-1643 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-1643.pdf|
 |Customer Case Studies: Lessons Learned from the Cisco SD-WAN Design Council - BRKENT-2660 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2660.pdf|
 |Cybersecurity Threat Intelligence Ecosystems - BRKSEC-1187 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-1187.pdf|
@@ -192,6 +205,7 @@
 |Designing Secure & Scalable Meraki Networks with Single-Sign On & Role-Based Access Control - BRKOPS-1016 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-1016.pdf|
 |Design, Validate and Certify your Wireless Streaming Telemetry Deployment - BRKEWN-1108 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-1108.pdf|
 |Deterministic Traffic Control with Cisco Meraki SD-WAN - BRKENT-1545 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-1545.pdf|
+|DevNet and Automation Certifications and Learning Update - CISCOU-2056 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2056.pdf|
 |Discover the invisible world of wireless with spectrum analysis - BRKEWN-1011 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-1011.pdf|
 |Dive into GenAI and agentic AI best practices for Security and Observability - BRKOBS-1011 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1011.pdf|
 |Diverse Virtualization Deployment Strategies with Cisco UCS: VMware, Red Hat, Azure, Nutanix, and More - BRKCOM-2460 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2460.pdf|
@@ -230,6 +244,7 @@
 |Ethernet Evolution and Challenges in the world of AI - BRKNWT-2504 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKNWT-2504.pdf|
 |Ethernet Fabrics for AI clusters - powered by Silicon One and Nexus, an ultra high performance, scalable & non-blocking ethernet fabric. - BRKCOC-3005 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOC-3005.pdf|
 |Evaluating and Improving Defenses With MITRE ATT&CK - BRKSEC-2227 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2227.pdf|
+|Event-Driven Network Automation with NetBox and Ansible - CISCOU-2055 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2055.pdf|
 |Evolution of the Transport Network Architecture in the age of 5G, 6G and AI - BRKSPG-2133 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPG-2133.pdf|
 |Evolve your Zero Trust Architecture: A Case Study with Cisco IT - BRKSEC-2892 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2892.pdf|
 |Evolving Perimeters and Universal(Hybrid) Zero Trust with Cisco Secure Firewall - BRKSEC-2170 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2170.pdf|
@@ -237,20 +252,26 @@
 |EVPN Fabric in the Real World: Securing Critical Infrastructure in Finance and Aviation - BRKENS-2655 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2655.pdf|
 |Exploring Generative AI: A Beginner’s Guide to Concepts and Practical Applications​ - BRKGEN-1031 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKGEN-1031.pdf|
 |Exploring Practical AIOps Use Cases for Enterprise Networks with Splunk - BRKOPS-2256 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2256.pdf|
+|Exploring the Future of Multi-Modal AI: Integrating Text, Audio, Images, and Video - AIHUB-1970 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1970.pdf|
 |Exploring the Inner Workings of OSPF - BRKENT-2088 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2088.pdf|
 |Exploring the Paradigm Shift in Security: AI and Quantum Cryptography's Influence on Zero Trust - BRKXAR-2008 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2008.pdf|
 |Extended Detection with Cisco XDR: Data, Native Detections and Incident Generation - BRKSEC-2178 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2178.pdf|
 |Extend the Enterprise to the Cloud: AWS Cloud Integration with Enterprise SD-WAN - BRKXAR-2015 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2015.pdf|
 |Fabric Networking in the Campus: What's the fuss and what are the choices? - BRKENS-2700 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2700.pdf|
 |Find the problem faster, A Technical Deep Dive into Splunk Observability Cloud - BRKOBS-2006 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2006.pdf|
+|From Agents to Ecosystems: Why Cisco is Building the Internet of Agents - AIHUB-1950 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1950.pdf|
+|From Circuit Boards to the Data Center: Troubleshooting Techniques for Infrastructure Engineers - CISCOU-2068 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2068.pdf|
+|From Code to Conversations: Building Mistral AI Agents for Cisco Devices - CISCOU-1060 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1060.pdf|
 |From Data to Action with ThousandEyes Traffic Insights: End to End Synthetic Monitoring Meets NetFlow - BRKOBS-2019 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2019.pdf|
 |From VLAN Sprawl to Adaptive Policy: Simplifying and automating Network Segmentation with TrustSec and Network-as-Code - BRKXAR-2034 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2034.pdf|
 |From Zero to Hero - How to successfully implement Data Center Automation using Service as Code - BRKATO-2000 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKATO-2000.pdf|
 |From Zero to Multi-Cloud Hero in 60 Minutes - BRKCLD-2409 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCLD-2409.pdf|
 |Future-proofing Campus Switching for WiFi7 - BRKENS-2608 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2608.pdf|
+|Gain Control of AI’s Impact on Network Traffic and User Experience - AIHUB-2013 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2013.pdf|
 |Gain Scalable, Deep Visibility into Network Traffic with Cisco Nexus Dashboard Data Broker - BRKDCN-1614 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-1614.pdf|
 |GenAI in Action! See how we transform Customer Experience with our AI Agent and deliver on business outcomes - BRKCCT-2018 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-2018.pdf|
 |GenAI Your Way: Reimagine Network Troubleshooting - BRKOPS-3822 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-3822.pdf|
+|Generative Technical Support: AI Driven Problem Solving - CISCOU-2060 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2060.pdf|
 |Get operational insights quickly with natural language queries for the Splunk Platform - BRKOBS-1021 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1021.pdf|
 |Getting SASE with Umbrella and Meraki - Understand best practices for simple and flexible integrations between Meraki and Umbrella - BRKSEC-2238 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2238.pdf|
 |Getting Started with Event Analytics: Turning Alerts into Actions - BRKOBS-1014 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1014.pdf|
@@ -258,26 +279,34 @@
 |Getting Started with Routed Optical Networking - BRKMSI-1002 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-1002.pdf|
 |Getting the best out of Webex Calling ... when migrating from Unified Communications Manager - BRKCOL-2084 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2084.pdf|
 |Getting to know the Splunk Data Platform - your Intelligent Data Fabric for Cisco and beyond - BRKOBS-1016 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1016.pdf|
+|Getting Up and Running with Open-Source Local LLMs on UCS - with NVIDIA and AMD - AIHUB-2102 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2102.pdf|
 |Getting Webex Administration Troubleshooting Under Control in Control Hub - BRKCOL-3017 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-3017.pdf|
 |Goodbye Legacy, the Move to an IPv6-Only Enterprise - BRKENT-2008 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2008.pdf|
+|Green Security: Automating Threat Response and Access Control for a Sustainable Cyber Defense - AIHUB-2012 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2012.pdf|
 |gRPC, gNMI, gNOI... Oh My! An Enterprise Network Automation Journey - BRKDEV-2017 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDEV-2017.pdf|
 |Harnessing AI: How Splunk Leverages AI and Integrates with Cisco AI Defense - BRKSEC-2801 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2801.pdf|
+|Harnessing Generative & Agentic AI for Employee & Customer Experiences - AIHUB-1512 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1512.pdf|
 |Harnessing the Meraki Cloud Dashboard Day 0 to Day N with Terraform and Event Driven Ansible - BRKOPS-2188 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2188.pdf|
 |Harness the power of AI and digital channels to modernize your customer experience - BRKCCT-2017 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-2017.pdf|
 |High-Density Wi-Fi Design, Deployment and Optimization - BRKEWN-2087 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-2087.pdf|
 |How Catalyst SD-WAN Analytics & Insights Powers Faster Mean Time to Innocence! - BRKENT-2351 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2351.pdf|
 |How Cisco build AI readiness IP Backbone with 8000 Series - BRKMSI-3000 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-3000.pdf|
 |How Cisco IT Tackled Network Observability and Feeds the Hunger for AI - BRKCOC-2035 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOC-2035.pdf|
+|How I Became Sustainable at Home with AI and Cisco Technologies, Saving $800 in Power Charges Every Month and Empowering My Community To Do It Too! - AIHUB-1014 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1014.pdf|
 |How It's Made: Cisco Secure Access - BRKSEC-2885 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2885.pdf|
 |How to Adopt Zero Trust using SD-Access and Default-Deny without Tears - BRKENS-3810 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-3810.pdf|
+|How to Be a Network Engineer in a Artificial Age? - CISCOU-1053 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1053.pdf|
 |How to Become the Data Center Operations Hero with Nexus Dashboard - BRKDCN-2637 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2637.pdf|
 |How to Build a CCNA Certification Practice Lab - BRKCRT-2024 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-2024.pdf|
+|How to build AI agents for automating networking software development - AIHUB-1013 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1013.pdf|
 |How to Build a Secure Multi-Cloud Environment with Cisco Secure Workload and Multicloud Defense - BRKSEC-2421 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2421.pdf|
 |How to get the most from your fiber network ? - BRKMSI-2006 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-2006.pdf|
 |How to Prepare for the CCNP Enterprise Advanced Routing Concentration Certification - BRKCRT-2016 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-2016.pdf|
 |How to Seamlessly Automate NX-OS and ACI Networks through Nexus Dashboard - BRKDCN-1615 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-1615.pdf|
 |How to Setup a Nexus Hyperfabric from Scratch - BRKDCN-2907 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2907.pdf|
 |How to Successfully Champion an IT Project - Learn the Language of Executive Decision Makers - BRKGEN-1008 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKGEN-1008.pdf|
+|How we make TAC Engineers Super-Human - AIHUB-2014 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2014.pdf|
+|Hypershield in a Nutshell: What it is and how it works - CISCOU-2059 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2059.pdf|
 |Identity Based Attacks, a Red Team/Blue Team Experience - BRKSEC-2164 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2164.pdf|
 |Identity Intelligence Demystified - BRKSEC-2162 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2162.pdf|
 |Identity Under Siege: Strategies for Today’s Threats - BRKSEC-2880 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2880.pdf|
@@ -287,6 +316,7 @@
 |Increase Your Networking Insights with Splunk Platform and Intelligent Data Fabric - BRKOBS-1020 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1020.pdf|
 |Infrastructure as Code for NXOS and NDFC with Ansible - BRKDCN-2946 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2946.pdf|
 |Infrastructure for Agentic AI: Architecting Scalable Secure Multi-Model Systems - BRKCOM-1126 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-1126.pdf|
+|Innovating with Webex for Developers - CISCOU-1033 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1033.pdf|
 |Innovations in Silicon and Software: Defining the Next Generation of Enterprise Technology - BRKARC-2093 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-2093.pdf|
 |Innovations on Cisco Campus Switching for Sustainability and Energy Management - BRKENS-2099 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-2099.pdf|
 |Innovative Authentication: Beyond Passwords - BRKSEC-2584 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2584.pdf|
@@ -296,15 +326,18 @@
 |Intersight Monitoring and Metrics: Bringing enhanced visibility to infrastructure - BRKCOM-2033 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2033.pdf|
 |Intersight Unlocked: Strategies and best practices to get the most out of Intersight - BRKCOM-2116 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2116.pdf|
 |Introduction to ACI - BRKDCN-1601 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-1601.pdf|
+|Introduction to AI Infrastructure - CISCOU-1058 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1058.pdf|
 |Introduction to Campus Network Design and Multilayer Architectures - BRKENS-1500 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-1500.pdf|
 |Introduction to Infrastructure as Code for ACI using Ansible - BRKDCN-2606 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2606.pdf|
 |Introduction to Infrastructure as Code for ACI using Terraform - BRKDCN-2607 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2607.pdf|
 |Introduction to NDFC: Simplifying Management of Your Data Center - BRKDCN-1619 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-1619.pdf|
+|Introduction to Nornir: Pythonic Network Automation - CISCOU-1056 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1056.pdf|
 |Introduction to Segment Routing and SRv6 - BRKMPL-1207 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMPL-1207.pdf|
 |Introduction to SRv6 uSID Technology - BRKMPL-2203 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMPL-2203.pdf|
 |Introduction to VXLAN: The Future Path of Your Data Center - BRKDCN-1621 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-1621.pdf|
 |Investment Protection with Catalyst 9000 Series Switching & Wireless: A Competitive Edge - BRKARC-1012 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-1012.pdf|
 |IPv6-Enabled Wi-Fi Access: Design and Deployment Strategies - BRKEWN-2834 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-2834.pdf|
+|IPv6 Groove: Get By with a Little Help from My Friends! - CISCOU-1038 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1038.pdf|
 |IPv6:: It's Happening! - BRKIPV-2191 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIPV-2191.pdf|
 |IPv6 Networking in a Cloud Native World - BRKIPV-2186 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIPV-2186.pdf|
 |IPv6 Security in the Local Area with First Hop Security - BRKENT-3002 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-3002.pdf|
@@ -319,6 +352,8 @@
 |Knock, Knock. Who is There Behind your Firewall? - All About Identity on Cisco Secure Firewall - BRKSEC-2590 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2590.pdf|
 |Kubernetes (K8s) Infrastructure Connectivity for the Modern Data Center - BRKDCN-2663 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2663.pdf|
 |Lab Up For Success With Cisco Modeling Labs - BRKCRT-2059 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-2059.pdf|
+|Langgraph: The Secret to Building Intelligent Agents - CISCOU-3005 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-3005.pdf|
+|Learn about Cisco's Security Cloud solution: Secure Access - CISCOU-1054 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1054.pdf|
 |Learn How Cisco's Virtual Demand Center Enables Webex Contact Center AI - BRKCCT-1513 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-1513.pdf|
 |Learnings Behind the Biggest Network Outages: Using ThousandEyes insights to improve IT resilience - BRKAPP-2021 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKAPP-2021.pdf|
 |Learn Through Example: Preparing for the DevNet Professional Exams DEVCOR and ENAUTO - BRKCRT-2022 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-2022.pdf|
@@ -336,11 +371,13 @@
 |Making Catalyst SD-WAN Easy: Operational Simplification and User Experience - BRKENT-1313 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-1313.pdf|
 |Making the Internet a Better Place by Participating in the IETF - BRKGEN-1385 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKGEN-1385.pdf|
 |Malware Execution As A Service: A Deep Dive into CSMA Advanced File Analysis - BRKSEC-3101 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-3101.pdf|
+|Malware Exposed: Understanding Tactics and Behaviors - CISCOU-2063 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2063.pdf|
 |Mastering AI Monitoring: Optimize and Protect Your GenAI Stack with Splunk AppDynamics and Observability Cloud - BRKOBS-2013 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2013.pdf|
 |Mastering BGP: A Deep Dive into Basics and Design Best Practices for BGP and L3VPN - BRKMPL-2103 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMPL-2103.pdf|
 |Mastering Cisco UCS: Innovations, Best Practices and Troubleshooting - BRKCOM-2456 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2456.pdf|
 |Mastering Generative AI: How Cisco is Empowering the Future with LLMs - BRKXAR-2019 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2019.pdf|
 |Mastering Growth Without Breaking the Bank: Your Guide to Scaling with Splunk® Observability Cloud - BRKOBS-2007 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2007.pdf|
+|Mastering Hands-on Labs: Unlocking the Power of Cisco Modeling Labs (CML) with Skillable - CISCOU-1064 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1064.pdf|
 |Mastering the Upgrade to CUCM Version 15: Innovations, Troubleshooting, and Seamless Transition - BRKCOL-2082 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2082.pdf|
 |Mastering Webex Calling: Everything You Need to Know - BRKCOL-2043 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2043.pdf|
 |Master the Move: Migrating VMs to OpenShift Virtualization in 60 Minutes! - BRKCLD-1013 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCLD-1013.pdf|
@@ -361,6 +398,7 @@
 |Mitigation of Adversarial Attacks on Generative AI with Cisco's AI Defense - BRKSEC-1554 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-1554.pdf|
 |Model it Up: Building Networks with Cisco Modeling Labs - BRKOPS-1104 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-1104.pdf|
 |Modern Authentication Explained to the Network Professional - BRKSEC-2144 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2144.pdf|
+|Modernising virtualisation with Kubernetes, KubeVirt and Cilium - CISCOU-2067 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2067.pdf|
 |Modernizing Private WAN Architecture for Critical Networks Infrastructure - BRKSPG-2063 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPG-2063.pdf|
 |Modernizing your Contact Center Enterprise (UCCE/PCCE/WxCCE) with Cloud and AI - BRKCCT-2031 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-2031.pdf|
 |Modernizing Your On-Premise Contact Center & Exploring Transition Options to the Cloud - BRKCCT-1512 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-1512.pdf|
@@ -377,15 +415,20 @@
 |Nexus One: An architecture for your Cisco Datacenter of tomorrow - BRKDCN-2602 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2602.pdf|
 |NOC Panel - BRKNOC-1001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKNOC-1001.pdf|
 |NXOS Troubleshooting using Nexus Dashboard Insights - BRKDCN-2674 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2674.pdf|
+|Observability at TorIX: Custom Telemetry Solutions on Next-Gen Campus Switching - CISCOU-1059 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1059.pdf|
 |OpenRoaming Under the Hood - BRKEWN-2037 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-2037.pdf|
 |Operational best practices to deploy and Manage Cisco Compute Hyperconverged with Nutanix clusters - BRKCOM-1111 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-1111.pdf|
 |Operationalizing AI for Contact Center: Best Practices & Responsible AI - BRKCCT-1514 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-1514.pdf|
 |Optical Networking Fundamentals - BRKOPT-1007 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPT-1007.pdf|
+|Optimizing ACI Data Center with AI-Powered Infrastructure as Code - AIHUB-2010 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2010.pdf|
 |Optimizing Edge Infrastructure with Intersight: Deploy, Manage and Monitor Compute at Scale - BRKCOM-2023 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2023.pdf|
 |Optimizing Security and Agility: Leveraging SD-WAN Capabilities in Cisco Secure Firewall Threat Defense - BRKSEC-2086 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2086.pdf|
 |Optimizing Troubleshooting Efficiency with AI and Splunk Observability - BRKOBS-2009 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2009.pdf|
+|OSPF LSA Types Made Simple - CISCOU-2058 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2058.pdf|
 |OT Security: Splunk + Cisco = Better Together - BRKIOT-1007 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-1007.pdf|
+|Packet Buddy - Chatting with your PCAPs, via the Cloud or Locally on Your Own Machine! - AIHUB-2000 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2000.pdf|
 |Packet Journey inside Catalyst 9000 Switches - BRKARC-2100 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKARC-2100.pdf|
+|Packets in Space: Networking for the Final Frontier - CISCOU-1057 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1057.pdf|
 |Pig-in-the-Middle - TLS Decryption and Encrypted Visibility Engine Deep Dive on Cisco Secure Firewall - BRKSEC-3320 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-3320.pdf|
 |Planning and Designing Successful Cloud Calling Deployments with Webex Calling - BRKCOL-2787 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2787.pdf|
 |Platform Engineering: Building Golden Paths for Modern Applications using Cisco Technologies - BRKCLD-2226 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCLD-2226.pdf|
@@ -401,11 +444,13 @@
 |Quantum Networking: How Cisco is Building Tomorrow's Infrastructure, Today - BRKETI-2009 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-2009.pdf|
 |Quantum Safe Cryptography (and why you need it) - BRKSEC-2175 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2175.pdf|
 |RADKit: Automate your network securely and efficiently - BRKOPS-3065 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-3065.pdf|
+|Redefine your AI/ML networks with Cisco Silicon One - AIHUB-1004 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1004.pdf|
 |Reduce downtime & accelerate investigations with AI for Observability - BRKOBS-1024 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1024.pdf|
 |Resilient Networks: From Prevention to Recovery - BRKSPG-2695 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPG-2695.pdf|
 |Rethink Your Edge Routing Architecture - BRKSP-2275 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSP-2275.pdf|
 |Revolutionizing CX with Cisco's Webex AI Agents: Strategies, Use Cases, and Insights - BRKCCT-1023 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-1023.pdf|
 |Revolutionizing Industrial Operations: Unveiling the Power of AI in IIoT with Cisco Solutions and Emerging Industry Trends - BRKIOT-2721 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-2721.pdf|
+|Revolutionizing Physical Security with AI-Driven MV Cameras - AIHUB-2016 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2016.pdf|
 |Riding the IPv6 Wave: Network Operations in an Increasingly IPv6 world - BRKIPV-2005 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIPV-2005.pdf|
 |SAN Congestion Management and SAN Analytics - BRKDCN-2942 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2942.pdf|
 |SD-Access in Action: Trusted Outcomes Across Education and Finance- Featuring UC Riverside & CIBC Bank - BRKENS-1805 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENS-1805.pdf|
@@ -419,6 +464,7 @@
 |Secure Networking & Segmentation for Multicloud Architectures - BRKDCN-2930 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2930.pdf|
 |Secure Operations for an IPv6 Network - BRKSEC-2044 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2044.pdf|
 |Secure the Network Edge against the DDoS Attacks! - BRKMSI-1001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-1001.pdf|
+|Securing AI Agents and Agentic RAG Implementations - AIHUB-2001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2001.pdf|
 |Securing Applications, Simplifying Workflows: Cisco + Splunk Better-Together - BRKOBS-1025 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1025.pdf|
 |Securing Industrial Networks: Where Do I Start? - BRKSEC-2096 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2096.pdf|
 |Securing Spaces: Meraki MV, Genea, and the Power of IoT - BRKIOT-1516 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-1516.pdf|
@@ -436,6 +482,7 @@
 |Simple Leaf/Spine with a Touch of ToR - Network Designs for the Modern Data Center - BRKDCN-2967 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2967.pdf|
 |Simple VXLAN/EVPN Fabric Setup with Nexus Dashboard - BRKDCN-2929 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2929.pdf|
 |Simplifying Operations and Upgrades on Your Nexus Switch using Modular NXOS Software - BRKDCN-2639 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2639.pdf|
+|Sizing Compute Resources for Large Language Models - AIHUB-2659 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2659.pdf|
 |Solving the Segmentation Puzzle with Secure Workload! - BRKSEC-2161 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2161.pdf|
 |SONiC Architecture and Deployment Deep Dive - BRKMSI-2004 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-2004.pdf|
 |Splunk and OpenTelemetry for Centralized Insights to Address Your Sustainability Goals - BRKGRN-1022 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKGRN-1022.pdf|
@@ -444,6 +491,7 @@
 |SR Flex-Algo: The Future of Intelligent Traffic Engineering in SR and SRv6 - BRKMPL-2129 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMPL-2129.pdf|
 |SR-TE 101: Driving a New Traffic School of Thought - BRKMPL-1203 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMPL-1203.pdf|
 |Starlink Security Advanced - BRKSEC-2173 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2173.pdf|
+|Starting Strong in Offensive Security: Cisco's Ethical Hacking Path - CISCOU-1049 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1049.pdf|
 |Strategies for a Quantum-Safe Security Transition - BRKETI-1007 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-1007.pdf|
 |Strategies for Passing the DCCOR (350-601) Exam - BRKCRT-2018 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-2018.pdf|
 |Streamline Your Industrial Routing with Catalyst SD-WAN - BRKIOT-2586 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-2586.pdf|
@@ -454,6 +502,8 @@
 |Talking with Giants: A Conversation with Some of the Key Contributors to the Development of Cisco and the Internet - BRKNWT-1413 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKNWT-1413.pdf|
 |Tap the full power of Generative AI in Splunk using AI Assistants and the Machine Learning Toolkit - BRKOBS-2014 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-2014.pdf|
 |Ten Reasons why you think you need an Optical Network, but you don’t ! - BRKMSI-2000 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-2000.pdf|
+|The AI Enablement Framework: Year 2 of Cisco’s Journey - AIHUB-2011 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-2011.pdf|
+|The Future of Agentic AI with MCP - CISCOU-2070 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2070.pdf|
 |The Future of Manufacturing: Secure, Reliable, AI-Ready Network Architecture - BRKIOT-2720 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-2720.pdf|
 |The GenAI Journey: From Machine Learning to the Agentic Internet - BRKETI-1005 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKETI-1005.pdf|
 |The Hitchhiker's Guide to Troubleshooting IPv6 - BRKENT-3340 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-3340.pdf|
@@ -471,6 +521,7 @@
 |The power of two: Simplifying Cisco Hyperconverged deployment expansions and management using Intersight Cloud Management and Nutanix Prism Central - BRKCOM-2026 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2026.pdf|
 |The Software-defined Factory Enabled by SDA - BRKIOT-2299 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-2299.pdf|
 |The Swiss Army Knife of Cloud Native Networking - BRKCLD-1012 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCLD-1012.pdf|
+|The Three States of Network Compliance Testing (Live!) - CISCOU-2069 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2069.pdf|
 |The Value of the CCNA for EVERY Engineer - Yes that Means You! - BRKCRT-1004 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCRT-1004.pdf|
 |The Webex Cloud Platform: Infrastructure, Data Residency and Connectivity - BRKCOL-2990 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2990.pdf|
 |ThousandEyes: Assurance in Focus - BRKOBS-1017 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOBS-1017.pdf|
@@ -486,6 +537,7 @@
 |Troubleshoot Catalyst 9800 Wireless Controllers - BRKEWN-3628 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-3628.pdf|
 |Troubleshoot Cisco Secure Client Network Visibility Module (NVM) with XDR - BRKTAC-3002 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKTAC-3002.pdf|
 |Troubleshooting ACI access policies Fault F0467 - BRKTAC-3001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKTAC-3001.pdf|
+|Troubleshooting as you know it—is over. - AIHUB-1903 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1903.pdf|
 |Troubleshooting Microsoft Teams Webex Calling Integration - BRKCOL-3018 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-3018.pdf|
 |Troubleshooting Multicast: The "Usual Suspects" - BRKENT-2264 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKENT-2264.pdf|
 |Troubleshooting Strategies for Cisco Catalyst Center & SD-Access - BRKTRS-2821 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKTRS-2821.pdf|
@@ -497,6 +549,7 @@
 |Turbo charge your ACI Segmentation and Visibility - BRKDCN-2959 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2959.pdf|
 |Turbocharge your services: Rapid end to end Automation with Infrastructure as Code! - BRKOPS-2142 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2142.pdf|
 |Turbocharging Automated Network Testing with Generative AI - BRKXAR-2032 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2032.pdf|
+|Uncover the Secrets of Cisco Live's NOC: FlexPod, Splunk, and More - CISCOU-2064 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2064.pdf|
 |Understanding and Troubleshooting HTTP Proxies in the Webex Environment - BRKCOL-3020 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-3020.pdf|
 |Understanding Hyperfabric: a Groundbreaking Cloud-Controlled Data Center Network Solution - BRKDCN-2944 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2944.pdf|
 |Understanding, Identifying and Resolving Congestion in a UCS Converged Infrastructure - BRKCOM-2657 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-2657.pdf|
@@ -510,13 +563,16 @@
 |Unified Wireless for Industries: From Wi-Fi to Private 5G and Beyond - BRKSPG-2045 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPG-2045.pdf|
 |Unifying On-The-Move Wireless Networks Across 5G, Wi-Fi, and Satellite for Emergency Services using SRv6 - BRKSPG-2046 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPG-2046.pdf|
 |Unleash Network Potential: Master QoS and Forwarding with Cisco 8000 - BRKMSI-2001 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKMSI-2001.pdf|
+|Unlocking Data with Generative AI: From Natural Language to SQL - CISCOU-2053 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2053.pdf|
 |Unlocking Day2Ops Excellence: Nexus Dashboard Innovations for ACI & NX-OS N9K Fabrics - BRKDCN-3924 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-3924.pdf|
 |Unlocking the Automation Power in Catalyst Center for Wired and Wireless Networks - BRKOPS-2697 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKOPS-2697.pdf|
 |Unlocking the Future: Introducing Cisco's Industrial Networking and IoT Essentials - BRKIOT-1006 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKIOT-1006.pdf|
 |Unlocking the Power of Edge Computing and AI: Challenges, Use Cases, and Cisco's Edge Compute Solutions - BRKCOM-1009 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOM-1009.pdf|
 |Unpacking the Big Bag of Architecture Wisdom - BRKXAR-2130 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKXAR-2130.pdf|
 |Untangle the multi cloud maze and simplify hybrid cloud connectivity with Catalyst SDWAN - BRKCLD-1512 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCLD-1512.pdf|
+|Use Your Experience to Empower the Next Generation: Teach and Inspire with Cisco Networking Academy - CISCOU-1700 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-1700.pdf|
 |Ushering in a New Era of 5G Innovation with Cisco's Multi-Use Case Mobility Services Platform (MSP) - BRKSPM-2341 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSPM-2341.pdf|
+|Using Ethernet for AI Networking - CISCOU-2061 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2061.pdf|
 |VXLAN BGP EVPN Multi-Site - BRKDCN-2913 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2913.pdf|
 |VXLAN EVPN: A Deep Dive into Packet Forwarding - BRKDCN-3966 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-3966.pdf|
 |VXLAN EVPN Shared Border designs and automation - BRKDCN-2665 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2665.pdf|
@@ -527,7 +583,9 @@
 |Webex Edge Connect Design and Deployment for Webex Meetings, Calling and Dedicated Instance - BRKCOL-2094 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2094.pdf|
 |Webex Troubleshooting Superpowers with ThousandEyes and Meraki Integrations - BRKCOL-2662 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCOL-2662.pdf|
 |Webex Workforce Optimization – Built for the modern contact center - BRKCCT-1025 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKCCT-1025.pdf|
+|What's the NAC with ACI...? - CISCOU-2065 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/CISCOU-2065.pdf|
 |Why Cisco Secure WAF/WAAP is Essential for Safeguarding Exposed Applications and APIs - BRKSEC-1039 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-1039.pdf|
+|Why does the enterprise need the Cisco Secure AI Factory with NVIDIA? - AIHUB-1115 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/AIHUB-1115.pdf|
 |Why You Shouldn't Fear Upgrading Your ACI Fabric: The Handbook! - BRKDCN-2910 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKDCN-2910.pdf|
 |Why You Shouldn't Fear Your Firewall Upgrade: The Evolution and How-to Guide - BRKSEC-2929 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKSEC-2929.pdf|
 |Wi-Fi 7 is Here - Are you Ready? - BRKEWN-2025 | https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2025/pdf/BRKEWN-2025.pdf|
